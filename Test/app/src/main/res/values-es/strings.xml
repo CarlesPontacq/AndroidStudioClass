@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testeo</string>
+    <string name="greetings">Bienvenido</string>
+    <string name="farewell">Adios</string>
+</resources>
