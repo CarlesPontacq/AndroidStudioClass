@@ -35,8 +35,8 @@ class SecondActivity : AppCompatActivity() {
             Character("Doggo", "Good bois", R.drawable.doggos),
         )
 
-        val recyclerView: RecyclerView = findViewById(R.id.character_recycler_view)
-        recyclerView.layoutManager = LinearLayoutManager(this)
-        recyclerView.adapter = CharacterAdapter(characters)
+            val recyclerView: RecyclerView = findViewById(R.id.character_recycler_view)
+            recyclerView.layoutManager = LinearLayoutManager(this)
+            recyclerView.adapter = CharacterAdapter(characters)
     }
 }

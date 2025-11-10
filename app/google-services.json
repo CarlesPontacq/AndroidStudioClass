@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "743427009820",
+    "project_id": "appcompanionpokemontcg",
+    "storage_bucket": "appcompanionpokemontcg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743427009820:android:f12e6a1a51a5261ada9ed9",
+        "android_client_info": {
+          "package_name": "com.example.analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHypQkU-txIKPUlJFc8t7tXDSBse62Hy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
